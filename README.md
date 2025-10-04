@@ -3,7 +3,7 @@
 Welcome to my **Hacktoberfest Portfolio Project**!  
 This repository is created for **Hacktoberfest**, where anyone can contribute and showcase their work (HTML, CSS, JavaScript, or any small project/file).  
 
-Whether you are a beginner or an experienced developer, you are welcome here 🙌  
+Whether you are a beginner or an experienced developer, you are welcome here.. 🙌  
 
 ---
 
